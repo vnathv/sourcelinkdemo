@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tn18nQQlA1OcC9W5KbJCRIEqzDgWziKO5+ed0uaYzRWsdCGA/C/+to+iuYMEjfq2Y4YoZHii2doXB6h7nFypiA==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\demo\\Sourcelink.Demo\\Sourcelink.Demo\\Sourcelink.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vviswanathan\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\vviswanathan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vviswanathan\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\vviswanathan\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\vviswanathan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\vviswanathan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\bin\release\netstandard2.0\Sourcelink.Demo.deps.json
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\bin\release\netstandard2.0\Sourcelink.Demo.dll
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\bin\release\netstandard2.0\Sourcelink.Demo.pdb
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\obj\release\netstandard2.0\Sourcelink.Demo.csprojAssemblyReference.cache
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\obj\release\netstandard2.0\Sourcelink.Demo.csproj.CoreCompileInputs.cache
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\obj\release\netstandard2.0\Sourcelink.Demo.sourcelink.json
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\obj\release\netstandard2.0\Sourcelink.Demo.AssemblyInfoInputs.cache
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\obj\release\netstandard2.0\Sourcelink.Demo.AssemblyInfo.cs
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\obj\release\netstandard2.0\Sourcelink.Demo.dll
+C:\Personal\demo\Sourcelink.Demo\Sourcelink.Demo\obj\release\netstandard2.0\Sourcelink.Demo.pdb
